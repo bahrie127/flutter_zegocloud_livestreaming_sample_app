@@ -1,0 +1,86 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_logs (0.0.1):
+    - Flutter
+    - ZIPFoundation
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - native_device_orientation (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.1.0):
+    - Flutter
+  - sqflite (0.0.3):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - wakelock (0.0.1):
+    - Flutter
+  - zego_express_engine (3.2.1):
+    - Flutter
+    - ZegoExpressEngine (= 3.2.1)
+  - zego_zpns (2.2.0):
+    - Flutter
+    - ZPNs (= 2.1.0)
+  - ZegoExpressEngine (3.2.1)
+  - ZIPFoundation (0.9.11)
+  - ZPNs (2.1.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_logs (from `.symlinks/plugins/flutter_logs/ios`)
+  - native_device_orientation (from `.symlinks/plugins/native_device_orientation/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - zego_express_engine (from `.symlinks/plugins/zego_express_engine/ios`)
+  - zego_zpns (from `.symlinks/plugins/zego_zpns/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - ZegoExpressEngine
+    - ZIPFoundation
+    - ZPNs
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_logs:
+    :path: ".symlinks/plugins/flutter_logs/ios"
+  native_device_orientation:
+    :path: ".symlinks/plugins/native_device_orientation/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  zego_express_engine:
+    :path: ".symlinks/plugins/zego_express_engine/ios"
+  zego_zpns:
+    :path: ".symlinks/plugins/zego_zpns/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_logs: 5d0dca26963e0f30b11a995a764744ef77d5d428
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  native_device_orientation: 3b4cfc9565a7b879cc4fde282b3e27745e852d0d
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  permission_handler_apple: 8f116445eff3c0e7c65ad60f5fef5490aa94b4e4
+  sqflite: 31f7eba61e3074736dff8807a9b41581e4f7f15a
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+  zego_express_engine: c468ac6141317af1e0ed41c5f65893bd0b62e109
+  zego_zpns: 749e132d6c6b836e83cb4b748101e489f99de4da
+  ZegoExpressEngine: 882450f6f141e13847464b010cd7d200b3e4ffac
+  ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
+  ZPNs: 7e3b073a97f3a7d9bbf77d76c94c4f592ab9aa2c
+
+PODFILE CHECKSUM: de8f99afa5099f4db9a51726e0feba52b6ed2376
+
+COCOAPODS: 1.11.3
