@@ -21,7 +21,7 @@ https://youtu.be/Lv7cuR4fPp8
 
 | Home        | Call Page    |
 |--------------|-----------|
-| <img src="1.jpeg" width="300"/> | <img src="2.jpeg" width="300"/>      |
+| <img src="1.png" width="300"/> | <img src="2.png" width="300"/>      |
 
 ## Contact
 Whatsapp: https://wa.me/6285640899224
