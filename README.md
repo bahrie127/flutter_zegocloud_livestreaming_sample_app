@@ -12,9 +12,9 @@ ZEGOCLOUD live streaming SDK allows you to easily build your live streaming apps
 
 ## Youtube Video
 - Membuat Aplikasi Live Streaming Tanpa Ribet dengan ZEGOCLOUD Live Streaming SDK dan Flutter
-[![Watch the video](https://img.youtube.com/vi/Lv7cuR4fPp8/sddefault.jpg)](https://youtu.be/Lv7cuR4fPp8)
+[![Watch the video](https://img.youtube.com/vi/yCo_Z4HKSiI/sddefault.jpg)](https://youtu.be/yCo_Z4HKSiI)
 
-https://youtu.be/Lv7cuR4fPp8
+https://youtu.be/yCo_Z4HKSiI
 
 
 ## ScreenShot
