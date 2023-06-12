@@ -24,10 +24,10 @@ https://youtu.be/yCo_Z4HKSiI
 | <img src="1.png" width="300"/> | <img src="2.png" width="300"/>      |
 
 ## Contact
-Whatsapp: https://wa.me/6285640899224
-Telegram: https://t.me/bahri_bhe  
-Linkedin : https://www.linkedin.com/in/bahrie
-Youtube: https://youtube.com/@codewithbahri
+* Whatsapp: https://wa.me/6285640899224
+* Telegram: https://t.me/bahri_bhe  
+* Linkedin: https://www.linkedin.com/in/bahrie
+* Youtube: https://youtube.com/@codewithbahri
 
 
 
